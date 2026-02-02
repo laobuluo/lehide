@@ -1,0 +1,40 @@
+/**
+ * LeHide编辑器按钮样式
+ */
+
+/* TinyMCE编辑器按钮样式 - 使用文本按钮 */
+.mce-btn.mce-lehide_button {
+    background: #0073aa !important;
+    color: #fff !important;
+    border-color: #005177 !important;
+    padding: 2px 8px !important;
+}
+
+.mce-btn.mce-lehide_button:hover,
+.mce-btn.mce-lehide_button:focus,
+.mce-btn.mce-lehide_button:active {
+    background: #005177 !important;
+    border-color: #003f5c !important;
+    color: #fff !important;
+}
+
+.mce-btn.mce-lehide_button .mce-txt {
+    font-weight: 500;
+    font-size: 13px;
+    color: #fff !important;
+    line-height: 1.5;
+}
+
+/* 确保按钮在工具栏中正确显示 */
+.mce-toolbar .mce-btn.mce-lehide_button {
+    margin: 2px;
+}
+
+/* 块编辑器按钮样式 */
+.block-editor-block-list__layout .lehide-shortcode-block {
+    background: #f0f0f1;
+    border: 1px dashed #8c8f94;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px 0;
+}
