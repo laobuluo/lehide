@@ -9,27 +9,7 @@
 
 LeHide 是一款专为 WordPress 设计的公众号涨粉插件，通过隐藏内容引导用户关注您的微信公众号。插件界面美观实用，操作简单，是自媒体运营者的得力助手。
 
-**插件官网：** [https://www.lezaiyun.com/886.html](https://www.lezaiyun.com/886.html)
-
-**作者：** 老蒋和他的小伙伴
-
-**公众号：** 老蒋朋友圈
-
 ---
-
-## 插件团队和技术支持
-
-[乐在云](https://www.lezaiyun.com/)（老蒋和他的伙伴们），本着资源共享原则，在运营网站过程中用到的或者是有需要用到的主题、插件资源，有选择的免费分享给广大的网友站长，希望能够帮助到你建站过程中提高效率。
-
-感谢团队成员，以及网友提出的优化工具的建议，才有后续产品的不断迭代适合且满足用户需要。不能确保100%的符合兼容网站，我们也仅能做到在工作之余不断的接近和满足你的需要。
-
-| 类目             | 信息                                                         |
-| ---------------- | ------------------------------------------------------------ |
-| 插件更新地址     | https://www.lezaiyun.com/792.html                            |
-| 团队成员         | [老蒋](https://www.laojiang.me/)、老赵、[CNJOEL](https://www.rakvps.com/)、木村 |
-| 支持网站         | 乐在云、主机评价网、老蒋玩主机                               |
-| 建站资源推荐     | [便宜VPS推荐](https://www.zhujipingjia.com/pianyivps.html)、[美国VPS推荐](https://www.zhujipingjia.com/uscn2gia.html)、[外贸建站主机](https://www.zhujipingjia.com/wordpress-hosting.html)、[SSL证书推荐](https://www.zhujipingjia.com/two-ssls.html)、[WordPress主机推荐](https://www.zhujipingjia.com/wpblog-host.html) |
-| 提交WP官网（是） | https://cn.wordpress.org/plugins/wpwatermark/                |
 
 ## ✨ 主要功能
 
@@ -263,21 +243,23 @@ A: 可以通过 WordPress 主题的 `style.css` 文件覆盖插件样式，或�
 - 🔧 完善的安全机制
 - 🔧 优化的前端性能
 
+## 插件团队和技术支持
+
+[乐在云](https://www.lezaiyun.com/)（老蒋和他的伙伴们），本着资源共享原则，在运营网站过程中用到的或者是有需要用到的主题、插件资源，有选择的免费分享给广大的网友站长，希望能够帮助到你建站过程中提高效率。
+
+感谢团队成员，以及网友提出的优化工具的建议，才有后续产品的不断迭代适合且满足用户需要。不能确保100%的符合兼容网站，我们也仅能做到在工作之余不断的接近和满足你的需要。
+
+| 类目            | 信息                                                         |
+| --------------- | ------------------------------------------------------------ |
+| 插件更新地址    | https://www.lezaiyun.com/886.html                            |
+| 团队成员        | [老蒋](https://www.laojiang.me/)、老赵、[CNJOEL](https://www.rakvps.com/)、木村 |
+| 支持网站        | 乐在云、主机评价网、老蒋玩主机                               |
+| 建站资源推荐    | [便宜VPS推荐](https://www.zhujipingjia.com/pianyivps.html)、[美国VPS推荐](https://www.zhujipingjia.com/uscn2gia.html)、[外贸建站主机](https://www.zhujipingjia.com/wordpress-hosting.html)、[SSL证书推荐](https://www.zhujipingjia.com/two-ssls.html)、[WordPress主机推荐](https://www.zhujipingjia.com/wpblog-host.html) |
+| 提交WP官网（F） |                                                              |
+
 ---
 
-## 🛠️ 技术支持
-
-### 获取帮助
-
-- **插件官网：** [https://www.lezaiyun.com/886.html](https://www.lezaiyun.com/886.html)
-- **乐在云工作室：** [https://www.lezaiyun.com](https://www.lezaiyun.com)
-- **主机评价网**：https://www.zhujipingjia.com
-
-### 关注公众号
-
-扫描二维码关注 **老蒋朋友圈** 公众号，获取最新插件更新和技术支持。
-
----
+![](wechat.png)
 
 ## 📄 许可证
 
