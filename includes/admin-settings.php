@@ -46,7 +46,7 @@ function lehide_settings_page() {
     ?>
     <div class="wrap">
         <h1><?php echo esc_html(get_admin_page_title()); ?></h1>
-        <p>在这里，我们需要配置插件的相关选项。<a href="https://www.lezaiyun.com/886.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
+        <p>在这里，我们需要配置插件的相关选项。<a href="https://www.laojiang.me/6123.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
         <form action="options.php" method="post">
             <?php
             settings_fields('lehide_options');

@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeHide
- * Plugin URI: https://www.lezaiyun.com/886.html
+ * Plugin URI: https://www.laojiang.me/6123.html
  * Description: 这款插件适合用于WordPress公众号涨粉功能，界面美观实用。（公众号：老蒋朋友圈）
  * Version: 1.0.0
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lehide

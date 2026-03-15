@@ -1,7 +1,7 @@
 === LeHide ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags: content-hide, shortcode, wechat, qrcode, verification
 Requires at least: 6.0
 Tested up to: 6.9
@@ -32,7 +32,7 @@ LeHide is a WordPress plugin designed to help grow your WeChat official account 
 4. After entering the correct code, hidden content is revealed
 5. Verification status is saved in cookies for 7 days per post
 
-For more information and installation guide, visit: https://www.lezaiyun.com/886.html
+For more information and installation guide, visit: https://www.laojiang.me/6123.html
 
 == Installation ==
 
